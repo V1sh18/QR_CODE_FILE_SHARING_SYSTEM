@@ -90,14 +90,4 @@ Receive/upload a file from your phone to your computer
 $ qr-filetransfer -r /path/to/receive/file/to/
 ```
 
-![](https://user-images.githubusercontent.com/27065646/56946075-7444ae00-6b29-11e9-9387-06ae063e1361.png)
 
-## Credits
-Inspired by the Go project [qr-filetransfer](https://github.com/claudiodangelis/qr-filetransfer)
-
-## License
-MIT License
-
-Copyright © 2019 Siddharth Dushantha
-
-Active contributer - [Yu-Chen Lin](https://github.com/npes87184)
