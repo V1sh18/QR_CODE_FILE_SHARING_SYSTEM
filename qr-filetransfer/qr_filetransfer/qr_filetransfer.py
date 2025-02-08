@@ -40,17 +40,7 @@ MacOS = "Darwin"
 Linux = "Linux"
 Windows = "Windows"
 operating_system = platform.system()
-message = """
-╭──────────────────────────────────────────────────────────────────╮
-│ This port is being used. Try another port.                       │
-│ If you are very sure that this port is NOT in use,               │
-│ then try running this script again because there is known issue  │
-│ where an error is thrown even though the port is not being used. │
-│ This will be fixed very soon.                                    │
-│                                                                  │
-│ - Developers of qr-filetrasfer                                   │
-╰──────────────────────────────────────────────────────────────────╯
-"""
+
 
 
 def cursor(status):
